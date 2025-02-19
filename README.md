@@ -40,7 +40,7 @@ With a **powerful backend, dynamic UI, and smooth database interactions**, NetBa
 
 ## 🔧 Tech Stack  
 - **Front-End:** Java (Android) + XML  
-- **Back-End:** PHP (REST API)  
+- **Back-End:** PHP (API)  
 - **Database:** MySQL  
 - **UI/UX:** XML, Material Design  
 - **Version Control:** Git & GitHub  
@@ -51,4 +51,16 @@ With a **powerful backend, dynamic UI, and smooth database interactions**, NetBa
 > *Stay tuned for UI previews!*  
 
 ---
+## 📥 Installation Guide
+
+### 1️⃣ Prerequisites
+Before installing, make sure you have the following installed:
+- [Android Studio](https://developer.android.com/studio)
+- [XAMPP (for MySQL & PHP)](https://www.apachefriends.org/download.html)
+- Git (optional but recommended)
+
+### 2️⃣ Clone the Repository
+```sh
+git clone https://github.com/yourusername/NetBagZ.git
+cd NetBagZ
 
