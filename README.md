@@ -61,6 +61,6 @@ Before installing, make sure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/NetBagZ.git
+git clone https://github.com/NetBagZ/NetBagZ.git
 cd NetBagZ
 
